@@ -1,2 +1,2 @@
-# super-super-heroku-bot
-Bot using heroku, 24/7!
+# iHelp
+Bot, 24/7 iHelp!
